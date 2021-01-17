@@ -1,0 +1,17 @@
+- name: Maheen Asghar
+  bio: |
+    Maheen is a programmer-turned-analyst and data scientist in-training. She has been at DTE
+    since 2014, focusing her time and efforts on helping DTE through various data science and
+    strategy based projects. She started her career as a developer and analyst after obtaining
+    her B.S. in Computer Science from Wayne State University. She recently started working for
+    the Corporate Strategy team at DTE as Senior Business Analyst while pursuing the M.S. in
+    Information from the University of Michigan in Ann Arbor. Maheen just graduated in December
+    of 2020 and is now living in Downtown Detroit. She loves all things coffee, visits art museums
+    on the regular, and is attempting to learn how to play the guitar.
+  shortBio: |
+    Senior Business Analyst at DTE. Data scientist. Developer. 
+  avatar: ./avatars/maheen-asghar.jpg
+  social:
+    - url: https://github.com/miscalculation
+    - url: https://www.linkedin.com/in/maheenasghar/
+  featured: true

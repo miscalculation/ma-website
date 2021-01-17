@@ -1,33 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Maheen Asghar`,
+    name: `Maheen Asghar`,
+    siteUrl: `https://maheenasghar.com/`,
+    description: `Maheen Asghar's. Data scientist, programmer, coffee-drinker, art-enthusiast.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Hi. I'm Maheen. Data scientist, programmer, coffee-drinker, art-enthusiast.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://github.com/miscalculation`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/in/maheenasghar/`,
       },
     ],
   },
@@ -41,7 +29,6 @@ module.exports = {
         authorsPage: true,
         sources: {
           local: true,
-          // contentful: true,
         },
       },
     },
